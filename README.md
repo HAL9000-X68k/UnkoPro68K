@@ -18,3 +18,23 @@
 - 全て回収し終えるとステージクリアとなります。
 - また、制限時間を経過すると「水洗」されてしまい残機を１機（？）失い、残機数０の
 - 時点でゲームオーバーとなります。
+
+★謝辞★<br>
+本ソフトウェアは、以下の方々の素晴らしいソフトウェア群によって支えられております。<br>
+この場をお借りして、作者の皆様に感謝致します。
+- [PI.](https://twitter.com/xm6_original)様
+  <br>X68000エミュレータ「XM6 TypeG」
+- [yosshin](https://twitter.com/yosshin4004/status/1645762714319605760)様
+  <br>クロスコンパイル開発環境「xdev68k」
+- [吉野智興](http://retropc.net/x68000/software/develop/c/gcc_mariko/)様
+  <br>GNU Cコンパイラ「GCC真里子版 ver 1.42」
+- [西川善司](http://www.z-z-z.jp/zmusic/)様
+  <br>FM音源ドライバ「Z-MUSIC Ver3」
+- [効果音ラボ](https://soundeffect-lab.info/)様
+  <br>各種SE音声を利用させていただいております。
+- [ちょぷり](https://gui.jp.net/textalk/)様
+  <br>テキスト読み上げソフト「テキストーク」
+- [NOZ](http://noz.ub32.org/68fsw.html)様
+  <br>音声ファイルの変換（wav形式からpcm形式に）ツール「pcm3pcm」
+- [Thorbjørn Lindeijer](http://www.mapeditor.org/)様
+  <br>マップエディタ「Tiled」
