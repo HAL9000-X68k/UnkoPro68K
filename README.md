@@ -56,8 +56,8 @@
   <br>FM音源ドライバ「Z-MUSIC Ver3」
 - [効果音ラボ](https://soundeffect-lab.info/)様
   <br>各種SE音声を利用させていただいております。
-- [ちょぷり](https://gui.jp.net/textalk/)様
-  <br>テキスト読み上げソフト「テキストーク」
+- [ヒホ](https://voicevox.hiroshiba.jp/qa/)様
+  <br>テキスト読み上げソフト「VOICEVOX」
 - [NOZ](http://noz.ub32.org/68fsw.html)様
   <br>音声ファイルの変換（wav形式からpcm形式に）ツール「pcm3pcm」
 - [Thorbjørn Lindeijer](http://www.mapeditor.org/)様
