@@ -1,0 +1,24 @@
+# ソースコードについて
+本ファイル群は、「うんこPRO-68K」Version 1.04のソースコードです。<br>
+ソースコード以外の内訳は以下の通りです。<br>
+- BGM：Z-MUSIC3.0形式のBGMファイルを格納したディレクトリ
+- SE：効果音に使用しているADPCMデータファイルを格納したディレクトリ
+- Z-MUSIC：Z-MUSIC3.0ライブラリのヘッダファイルを格納したディレクトリ
+- BG.EPL：スプライトのパレットデータ
+- BG.SP：スプライトデータ
+- BGM00.ZMD：ロード中のBGM
+- BGM01.ZMD：タイトル画面BGM
+- BGM02.ZMD：デモ画面BGM
+- BGM03.ZMD：ステージBGM
+- BGM04.ZMD：エンディングBGM
+- BGM05.ZMD：ネームエントリーBGM
+- SetUp.ZMD：音色データ
+- DemoData.dat：デモ画面用トレースデータ
+- EnemyData.dat：敵キャラ配置データ
+- ItemData.dat：アイテム配置データ
+- MapData.dat：マップデータ
+- UnkoData.dat：ウンコ配置データ
+- PcmData.ZPD：Z-MUSIC用PCMデータ
+- makefile：gcc用makefile
+- makefile_debug：gcc用makefile（デバッグ用）
+- makefile_xdev68k：xdev68k用makefile
